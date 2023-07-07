@@ -23,3 +23,5 @@ node_modules/
 notes.md
 
 package.json
+
+package-lock.json
