@@ -21,3 +21,5 @@ README-template.md
 node_modules/
 
 notes.md
+
+package.json
